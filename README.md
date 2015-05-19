@@ -1,7 +1,4 @@
-# ipython notebooks
-here I store ipython notebooks
-
-## Introduction into Probabilistic Topic Modelling
+# Introduction into Probabilistic Topic Modelling
 
 ### Probabilistic Topic Models
 
