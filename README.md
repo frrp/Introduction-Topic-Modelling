@@ -1,5 +1,5 @@
 # ipython notebooks
-here I store various ipython notebooks
+here I store ipython notebooks
 
 ## Introduction into Probabilistic Topic Modelling
 
